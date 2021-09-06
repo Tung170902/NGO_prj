@@ -66,12 +66,13 @@ return [
 
         'pgsql' => [
             'driver' => 'pgsql',
-            'url' => 'postgres://mrfeexamqfrvqc:eaaa9e6fd49b6461a47d7161cf38498d7a0d441f20d1a7af1581942c814b2e34@ec2-44-198-80-194.compute-1.amazonaws.com:5432/d4nqv95ii56nnp',
-            'host' => 'ec2-44-198-80-194.compute-1.amazonaws.com',
+            'url' => '
+postgres://kewafkcovqgobi:a114569100e52222a3aa58f918ff96f68486433fb33581ad7d4e8d03ad885684@ec2-54-145-188-92.compute-1.amazonaws.com:5432/dbrhhlm81jlhh4',
+            'host' => 'ec2-54-145-188-92.compute-1.amazonaws.com',
             'port' => '5432',
-            'database' => 'd4nqv95ii56nnp',
-            'username' => 'mrfeexamqfrvqc',
-            'password' => 'eaaa9e6fd49b6461a47d7161cf38498d7a0d441f20d1a7af1581942c814b2e34',
+            'database' => 'dbrhhlm81jlhh4',
+            'username' => 'kewafkcovqgobi',
+            'password' => 'a114569100e52222a3aa58f918ff96f68486433fb33581ad7d4e8d03ad885684',
             'charset' => 'utf8',
             'prefix' => '',
             'prefix_indexes' => true,
